@@ -144,7 +144,7 @@ If you want to publish experimental results with our datasets or use the baselin
 
 ## License
 
-SIMMC is released under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), see [LICENSE](LICENSE) for details.
+SIMMC is released under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode), see [LICENSE](LICENSE) for details.
 
 
 [dstc9]:https://sites.google.com/dstc.community/dstc9/home
